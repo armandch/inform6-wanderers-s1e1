@@ -1,15 +1,7 @@
 !% !-----------------------------------------------------------------------------
 !% ! Inform Compiler Switches
 !% !-----------------------------------------------------------------------------
-!% +include_path=./,/Dev/Inform/Lib/Base
-!% -v5
-!% -s   !--give statistics
-!% -S   !--strict error-checking at run-time
-!% -X   !--infix (don't leave in final release; not available in glulx)
-!% -D   !--debug (don't leave in final release)
-!% -r   !--print story contents so they can be run through a spellchecker
-!% +transcript_name=transcript.txt
-
+!% +include_path=./,/usr/local/share/inform/lib
 
 !---------------------------------------------------------------------------------
 ! Original Template by Jim Fisher (http://inform.onyxring.com)
